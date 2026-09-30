@@ -4,7 +4,7 @@ Um carrinho universal para reunir produtos de diferentes lojas, organizar por ca
 
 ## Site publicado
 
-Acesse: **[Carrinho Universal](LINK_A_SER_ADICIONADO)**
+Acesse: **[Carrinho Universal](https://marcos-scox.github.io/carrinho-universal/)**
 
 ## Funcionalidades
 
