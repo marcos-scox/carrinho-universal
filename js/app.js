@@ -1,4 +1,3 @@
-<script>
 (function(){
 'use strict';
 
@@ -940,4 +939,3 @@ async function boot(){
 }
 boot();
 })();
-</script>
