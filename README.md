@@ -41,4 +41,4 @@ Depois, abra <http://localhost:8000>.
 
 ## Publicação
 
-O site é publicado pelo GitHub Pages a partir da branch `main`.
+O código-fonte está versionado no GitHub e o site está servido publicamente pelo servidor web estático do sandbox.
